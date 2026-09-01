@@ -28,6 +28,10 @@ Hack The Box Learning Resources, Note and collection related to learning hackthe
   </tr>
 </table>
 
+## Related Project
+
+Explore the [PoC CVE Collection](https://github.com/HORKimhab/poc-cve-collection "https://github.com/HORKimhab/poc-cve-collection") for additional CVE proof-of-concept resources intended for authorized security research and education.
+
 ## ⚠️ Warning
 
 This repository is intended for education and authorized security testing only.
