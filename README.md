@@ -28,12 +28,6 @@ Hack The Box Learning Resources, Note and collection related to learning hackthe
   </tr>
 </table>
 
-## License
-
-This repository is available under the [MIT License](LICENSE). An
-[unofficial Khmer translation](LICENSE_KM.md) is also available for reference;
-the English license text governs.
-
 ## ⚠️ Warning
 
 This repository is intended for education and authorized security testing only.
@@ -41,3 +35,9 @@ Use these materials exclusively in Hack The Box labs or on systems you own or
 have explicit permission to test. Unauthorized testing may be illegal. You are
 responsible for your actions and for complying with all applicable laws and
 platform rules.
+
+## License
+
+This repository is available under the [MIT License](LICENSE). An
+[unofficial Khmer translation](LICENSE_KM.md) is also available for reference;
+the English license text governs.
