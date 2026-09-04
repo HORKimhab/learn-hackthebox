@@ -4,6 +4,8 @@ Hack The Box Learning Resources, Note and collection related to learning hackthe
 
 🧪 Collects practical study notes, commands, wordlists, and references from Hack The Box Academy modules and authorized lab exercises.
 
+<img src="public/asset/hackthebox-modules.png" alt="hackthebox-modules">
+
 ## Donate
 
 <table style="border: none;">
